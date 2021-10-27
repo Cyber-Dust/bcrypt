@@ -75,4 +75,6 @@ modifier onlyOwnerAccess [ require(msg.sender == owner, "UNAITH"); _; }
 * public: ?
 * external: ?
 
+Gas Fees = price to deploy on the blockchain
 
+At least you are trendy, but deploying on the Blockchain => cost eth => pays the miners who run the code
