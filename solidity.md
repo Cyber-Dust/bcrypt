@@ -18,10 +18,10 @@ uint256 grade = 70;
 
 
 ### Common solifity types
-* address: Ethereum public address
-* bytes32: 32-byte word
-* bool: true or false
-* uint256: refer above
+* address: Ethereum public address.  DEFAULT VALUE = 0
+* bytes32: 32-byte word DEFAULT VALUE = empty string
+* bool: true or false. DEFAULT VALUE = false
+* uint256: refer above DEFAULT VALUE = 0
 * mapping: maps an element to another element
 
 
