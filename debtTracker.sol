@@ -21,9 +21,7 @@ contract DebtTracker {
         // uint256 debt = debtMapping[msg.sender][borrower];
         // uint256 newDebt = debt + amount;
         // debtMapping[msg.sender][borrower] = newDebt;
-        
         debtMapping[msg.sender][borrower] += amount;
-        
         return debtMapping[msg.sender][borrower];
     }
     // Function 3: remove debt as Borrower
