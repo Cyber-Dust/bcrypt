@@ -72,5 +72,7 @@ modifier onlyOwnerAccess [ require(msg.sender == owner, "UNAITH"); _; }
 * overrride:
 * event:
 * Interface:
+* public: ?
+* external: ?
 
 
