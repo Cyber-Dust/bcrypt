@@ -1,4 +1,4 @@
-# TITLE: Ethereum Blockchain
+# TITLE: Blockchain
 ## Author: Dasean Volk
 ## Fall 2021
 
@@ -8,6 +8,10 @@ Vyper
 Vyper is a contract-oriented, pythonic programming language that targets the Ethereum Virtual Machine (EVM).
 
 Solidity
+
+
+### Cardano
+language: Haskell
 
 
 
