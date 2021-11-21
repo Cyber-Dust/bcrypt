@@ -1,4 +1,4 @@
-# TITLE: Blockchain
+# Title: Blockchain
 ## Author: Dasean Volk
 ## Fall 2021
 
